@@ -69,9 +69,13 @@ You should have at least the following versions installed:
 - Flask-Login 0.6.2
 - Flask-SQLAlchemy 3.0.3
 
+<<<<<<< HEAD
 You will also need sqlite installed for the database backend.
 
 <<<<<<< HEAD
 Git dev test
 =======
 >>>>>>> test
+=======
+You will also need sqlite installed for the database backend.
+>>>>>>> 65f19446631351e31d0ea9fb51594e6c8887aac7
